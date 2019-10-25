@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Alvin Kamara",
+        "image": "./images/i.png",
+        "isClicked": false
+    },
+    {
+        "id": 1,
+        "name": "Aaron Rodgers",
+        "image": "./images/aaronr.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "Christian McCafrey",
+        "image": "./images/cmc.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "David Johnson",
+        "image": "./images/dj.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "Gardner Minshew",
+        "image": "./images/gardner.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "Deandre Hopkins",
+        "image": "./images/hop.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "Josh Gordon",
+        "image": "./images/joshy.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "Patrick Mahomes",
+        "image": "./images/pat.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "Tom Brady",
+        "image": "./images/tom.jpeg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "Zeke Elliot",
+        "image": "./images/zeke.jpeg",
+        "isClicked": false
+    }
+]
